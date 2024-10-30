@@ -3,7 +3,7 @@
 
 ***
 
-Links:
+**Links:**
 
 [_[appledb.dev]_  
 Download firmwares](https://appledb.dev/)
@@ -33,7 +33,7 @@ LJB's archive of firmwares, JBs, and Utilities](https://mega.nz/folder/k4FAXCIB#
 
 ***
 
-Tutorials:
+**Tutorials:**
 
 [_[calvink19.github.io/tuberepair]_  
 Full guide for YouTube on iOS 4/5/6](https://calvink19.github.io/tuberepair)
