@@ -1,5 +1,6 @@
 # Index
-**Hello, I'm Calvin.** I enjoy gaming and like to tinker with old iOS devices in my spare time.  
+**Hello, I'm Calvin.**  
+I like to tinker with old iOS devices in my spare time.  
 
 ***
 
