@@ -1,0 +1,11 @@
+# Sitemap
+- [calvink19.co](http://calvink19.co) (Main Website)
+- [calvink19.github.io](http://calvink19.github.io) (Backup Website)
+- [modmyi.github.io](https://modmyi.github.io) (ModMyi Repo)
+- [ck19r.github.io](http://ck19r.github.io) (Multiple Repos)
+    - [./ca](http://ck19r.github.io/ca) (Cracked Archive)
+    - [./ga](http://ck19r.github.io/ga) (General Archive)
+    - [./bb](http://ck19r.github.io/bb) (BigBoss Archive)
+    - [./emp](http://ck19r.github.io/emp) (EatMyPhone Archive)
+    - [./dl](http://ck19r.github.io/dl) (Misc. Downloads)
+- [ck19c.github.io](https://ck19c.github.io) (Contact Page)
