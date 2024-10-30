@@ -13,13 +13,15 @@
   <body>
 
     <header>
-      <div class="container" style="display:inline">
+      <div class="container">
+        <div style="text-align:left;float:left;">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        <a href="https://calvink19.github.io" class="btn"><span class="icon"></span>Index</a> / <a href="https://calvink19.github.io/sitemap" class="btn"><span class="icon"></span>Sitemap</a> / <a href="https://calvink19.github.io/contact" class="btn"><span class="icon"></span>Contact</a> / <a href="https://calvink19.github.io/about" class="btn"><span class="icon"></span>About</a>
-
+        </div>
+        <span style="text-align:right;float:right;"><a href="https://calvink19.github.io" class="btn"><span class="icon"></span>Index</a> / <a href="https://calvink19.github.io/sitemap" class="btn"><span class="icon"></span>Sitemap</a> / <a href="https://calvink19.github.io/contact" class="btn"><span class="icon"></span>Contact</a> / <a href="https://calvink19.github.io/about" class="btn"><span class="icon"></span>About</a></span>
+		<hr style="clear:both">
         <!---
         <section id="downloads">
           {% if site.show_downloads %}
