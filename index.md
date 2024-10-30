@@ -1,6 +1,6 @@
 # Index
 **Hello, I'm Calvin.** I enjoy gaming and like to tinker with old iOS devices in my spare time.  
-
+<br>
 
 ## ***Links***
 
@@ -30,7 +30,7 @@ LJB's archive of firmwares, JBs, and Utilities](https://mega.nz/folder/k4FAXCIB#
 [_[reddit.com/r/LegacyJailbreak/wiki/index/]_  
 /r/LegacyJailbreak wiki](https://www.reddit.com/r/LegacyJailbreak/wiki/index/)
 
-
+<br>
 
 ## ***Tutorials***
 
