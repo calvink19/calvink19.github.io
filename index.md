@@ -2,7 +2,7 @@
 **Hello, I'm Calvin.** I enjoy gaming and like to tinker with old iOS devices in my spare time.  
 <hr>
 
-***Links***
+### ***Links***
 
 [_[appledb.dev]_  
 Download firmwares](https://appledb.dev/)
@@ -14,9 +14,9 @@ Jailbreak status for devices](https://theapplewiki.com/wiki/Jailbreak#:~:text=wi
 Internet certificates for iOS 3+](https://calvink19.co/certs)
 
 [_[gist.github.com/LukeZGD/9d78...]_  
-**Downgrade/Dualboot status of every iOS device from LukeZGD**](https://gist.github.com/LukeZGD/9d781f1b03a69fa46869384a9407a41a)
+Downgrade/Dualboot status of every iOS device from LukeZGD](https://gist.github.com/LukeZGD/9d781f1b03a69fa46869384a9407a41a)
 
-[Jailbreaks.app's certificate:](https://api.jailbreaks.app/status)
+[Jailbreaks.app's certificate status](https://api.jailbreaks.app/status)
 
 [_[jailbreaks.app/legacy.html]_  
 Jailbreaks from iOS 8.4.1 to iOS 10.3.x](https://jailbreaks.app/legacy.html)
@@ -32,7 +32,7 @@ LJB's archive of firmwares, JBs, and Utilities](https://mega.nz/folder/k4FAXCIB#
 
 <hr>
 
-***Tutorials***
+### ***Tutorials***
 
 [_[calvink19.github.io/tuberepair]_  
 Full guide for YouTube on iOS 4/5/6](https://calvink19.github.io/tuberepair)
