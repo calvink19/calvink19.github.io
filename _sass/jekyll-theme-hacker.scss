@@ -295,9 +295,9 @@ a {
   --os-track-bg: none;
   --os-track-bg-hover: none;
   // The :hover background of the scrollbar track
-  --os-track-border-hover: none;
+  --os-track-border-hover: 10;
   // The :active background of the scrollbar track
-  --os-track-border-active: none;
+  --os-track-border-active: 10;
   // The border radius of the scrollbar handle
   --os-handle-border-radius: 10;
   // The background of the scrollbar handle
@@ -307,11 +307,11 @@ a {
   // The :active background of the scrollbar handle
   --os-handle-bg-active: #b5e853;
   // The border of the scrollbar handle
-  --os-handle-border: none;
+  --os-handle-border: 10;
   // The :hover border of the scrollbar handle
-  --os-handle-border-hover: none;
+  --os-handle-border-hover: 10;
   // The :active border of the scrollbar handle
-  --os-handle-border-active: none;
+  --os-handle-border-active: 10;
   // The min size of the scrollbar handle
 }
 
