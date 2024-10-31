@@ -9,3 +9,4 @@
     - [/emp](http://ck19r.github.io/emp) (EatMyPhone Archive)
     - [/dl](http://ck19r.github.io/dl) (Misc. Downloads)
 - [ck19c.github.io](https://ck19c.github.io) (Contact Page)
+- [cmgmini.github.io](https://cmgmini.github.io) (CoolMathGames Mini)
