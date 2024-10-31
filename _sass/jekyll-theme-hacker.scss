@@ -282,9 +282,40 @@ a {
 ::-webkit-scrollbar-track-piece:start {
   background: transparent;
 }
-*/
-
 ::-webkit-scrollbar-track-piece:end {
   background: transparent;
 }
+
+*/
+
+// overlayscrollbars works 🎉
+.os-scrollbar {
+  --os-size: 10;
+  --os-track-border-radius: 0;
+  --os-track-bg: none;
+  --os-track-bg-hover: none;
+  // The :hover background of the scrollbar track
+  --os-track-border-hover: none;
+  // The :active background of the scrollbar track
+  --os-track-border-active: none;
+  // The border radius of the scrollbar handle
+  --os-handle-border-radius: 0;
+  // The background of the scrollbar handle
+  --os-handle-bg: #b5e853;
+  // The :hover background of the scrollbar handle
+  --os-handle-bg-hover: #b5e853;
+  // The :active background of the scrollbar handle
+  --os-handle-bg-active: #b5e853;
+  // The border of the scrollbar handle
+  --os-handle-border: none;
+  // The :hover border of the scrollbar handle
+  --os-handle-border-hover: none;
+  // The :active border of the scrollbar handle
+  --os-handle-border-active: none;
+  // The min size of the scrollbar handle
+  --os-handle-min-size: 10px;
+  // The max size of the scrollbar handle
+  --os-handle-max-size: 10px;
+}
+
 
