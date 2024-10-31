@@ -14,6 +14,24 @@ $container-max-width: 1000px;
   }
 }
 
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #b5e853;
+  border-radius: 0rem;
+  border: 0px solid #fff;
+}
+
+
+::-webkit-scrollbar-track-piece:start {
+  background: transparent;
+}
+
+::-webkit-scrollbar-track-piece:end {
+  background: transparent;
+}
+
 body {
   margin: 0;
   padding: 0;
