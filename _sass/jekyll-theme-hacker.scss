@@ -292,8 +292,8 @@ a {
 .os-scrollbar {
   --os-size: 10;
   --os-track-border-radius: 10;
-  --os-track-bg: none;
-  --os-track-bg-hover: none;
+  --os-track-bg: 10;
+  --os-track-bg-hover: 10;
   // The :hover background of the scrollbar track
   --os-track-border-hover: 10;
   // The :active background of the scrollbar track
@@ -313,6 +313,34 @@ a {
   // The :active border of the scrollbar handle
   --os-handle-border-active: 10;
   // The min size of the scrollbar handle
+}
+
+// big shoutout to w3schools
+
+.top-container {
+  background-color: #f1f1f1;
+  padding: 30px;
+  text-align: center;
+}
+
+.header {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 102px;
 }
 
 
