@@ -20,8 +20,8 @@
   </head>
 
   <body data-overlayscrollbars-initialize>
-    <header>
-      <div class="container">
+    <header class="myHeader">
+      <div class="container" >
         <div style="text-align:left;float:left;">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -41,12 +41,27 @@
       </div>
     </header>
 
-    <div class="container" data-overlayscrollbars-initialize>
+    <div class="container" data-overlayscrollbars-initialize class="content">
       <section id="main_content">
         <br>
         {{ content }}
         <h6>This website is still in development. I apologise if links go dead, as I'm shuffling things around.</h6>
       </section>
     </div>
+  <script>
+window.onscroll = function() {myFunction()};
+
+var header = document.getElementById("myHeader");
+var sticky = header.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
+}
+	  
+  </script>
   </body>
 </html>
