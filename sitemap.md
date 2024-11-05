@@ -1,6 +1,5 @@
 # Sitemap
-- [calvink19.co](http://calvink19.co) (Main Website)
-- [calvink19.github.io](http://calvink19.github.io) (Backup Website)
+- [calvink19.github.io](http://calvink19.github.io) (Main Website)
 - [ck19r.github.io](http://ck19r.github.io) (Multiple Repos)
     - [/ca](http://ck19r.github.io/ca) (Cracked Archive)
     - [/ga](http://ck19r.github.io/ga) (General Archive)
@@ -13,6 +12,7 @@
 # Not in use
 - [calvink19.rf.gd](http://calvink19.rf.gd)
 - [modmyi.github.io](https://modmyi.github.io)
+- [calvink19.co](http://calvink19.co)
 - [modmyi.rf.gd](http://modmyi.rf.gd) (New ModMyi Repo, coming soon)
 - [ck19.rf.gd](http://ck19.rf.gd) (Redirects here)
     - [apt.-](http://apt.ck19.rf.gd) (Hosts other repositories, coming soon)
