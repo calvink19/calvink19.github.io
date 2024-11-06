@@ -4,82 +4,14 @@
 <head>
     <title>{{ site.title | default: site.github.repository_name }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
- 
 <meta charset='utf-8'>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
-<!--- oh lord whys it not loading--->
-<link rel="stylesheet" href="https://raw.githubusercontent.com/calvink19/calvink19.github.io/refs/heads/main/_sass/jekyll-theme-hacker.scss"> 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/calvink19/calvink19.github.io/refs/heads/main/_sass/hacker.scss"> 
-<link rel="stylesheet" href="/_sass/jekyll-theme-hacker.css">
-<link rel="stylesheet" href="/_sass/hacker.scss">
-
-<!--- the forbidden method --->
-<style>
-#myInput {
-  background-image: url('./searchicon.png');
-  background-position: 10px 12px;
-  background-repeat: no-repeat;
-  width: 100%;
-  font-size: 16px;
-  padding: 12px 20px 12px 40px;
-  border: 1px solid #ddd;
-  margin-bottom: 12px;
-}
-
-#myUL {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-#myUL li a {
-  border: 1px solid #ddd;
-  margin-top: -1px; /* Prevent double borders */
-  background-color: #f6f6f6;
-  padding: 12px;
-  text-decoration: none;
-  font-size: 18px;
-  color: black;
-  display: block
-}
-
-#myUL li a:hover:not(.header) {
-  background-color: #eee;
-}
-.cooldiv {
-  max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
-  white-space: pre-wrap;      /* CSS3 */   
-  white-space: -moz-pre-wrap; /* Firefox */   
-  white-space: -pre-wrap;     /* Opera <7 */   
-  white-space: -o-pre-wrap;   /* Opera 7 */   
-  word-wrap: break-word;      /* IE */
-}
-
-#myBtn {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-  z-index: 99;
-}
-
-a:link, a:visited {
-    color: blue;
-}
-a:hover {
-    color: blue;
-}
-</style>
+<link rel="stylesheet" href="https://raw.githubusercontent.com/calvink19/calvink19.github.io/refs/heads/main/_sass/jekyll-theme-hacker.scss"><link rel="stylesheet" href="https://raw.githubusercontent.com/calvink19/calvink19.github.io/refs/heads/main/_sass/hacker.scss"><link rel="stylesheet" href="/_sass/jekyll-theme-hacker.css"><link rel="stylesheet" href="/_sass/hacker.scss">
 </head>
 <body>
-<div class="cooldiv">
-<button onclick="topFunction()" id="myBtn" title="Go to top">Back to Top</button><h2 style="text-align:left;float:left;">{{ site.title | default: site.github.repository_name }}</h4> <h5 style="text-align:right;float:right;"><a href="https://calvink19.github.io" class="btn"><span class="icon"></span>Index</a> / <a href="https://calvink19.github.io/projects" class="btn"><span class="icon"></span>Projects</a> / <a href="https://calvink19.github.io/sitemap" class="btn"><span class="icon"></span>Sitemap</a> / <a href="https://calvink19.github.io/contact" class="btn"><span class="icon"></span>Contact</a></h4> 
+<div class="cooldiv"><button onclick="topFunction()" id="myBtn" title="Go to top">Back to Top</button><h2 style="text-align:left;float:left;">{{ site.title | default: site.github.repository_name }}</h4> <h5 style="text-align:right;float:right;"><a href="https://calvink19.github.io" class="btn"><span class="icon"></span>Index</a> / <a href="https://calvink19.github.io/projects" class="btn"><span class="icon"></span>Projects</a> / <a href="https://calvink19.github.io/sitemap" class="btn"><span class="icon"></span>Sitemap</a> / <a href="https://calvink19.github.io/contact" class="btn"><span class="icon"></span>Contact</a></h4> 
 <hr style="clear:both;"/>
 {{ content }}
 <script>
