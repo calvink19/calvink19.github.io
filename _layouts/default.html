@@ -75,17 +75,11 @@ a:link, a:visited {
 a:hover {
     color: blue;
 }
-    
 </style>
-{% include head-custom.html %}
-
-{% seo %}
-
 </head>
 <body>
 <div class="cooldiv">
-<button onclick="topFunction()" id="myBtn" title="Go to top">Back to Top</button>
-<h2 style="text-align:left;float:left;">{{ site.title | default: site.github.repository_name }}</h4> <h5 style="text-align:right;float:right;"><a href="https://calvink19.github.io" class="btn"><span class="icon"></span>Index</a> / <a href="https://calvink19.github.io/projects" class="btn"><span class="icon"></span>Projects</a> / <a href="https://calvink19.github.io/sitemap" class="btn"><span class="icon"></span>Sitemap</a> / <a href="https://calvink19.github.io/contact" class="btn"><span class="icon"></span>Contact</a></h4> 
+<button onclick="topFunction()" id="myBtn" title="Go to top">Back to Top</button><h2 style="text-align:left;float:left;">{{ site.title | default: site.github.repository_name }}</h4> <h5 style="text-align:right;float:right;"><a href="https://calvink19.github.io" class="btn"><span class="icon"></span>Index</a> / <a href="https://calvink19.github.io/projects" class="btn"><span class="icon"></span>Projects</a> / <a href="https://calvink19.github.io/sitemap" class="btn"><span class="icon"></span>Sitemap</a> / <a href="https://calvink19.github.io/contact" class="btn"><span class="icon"></span>Contact</a></h4> 
 <hr style="clear:both;"/>
 {{ content }}
 <script>
