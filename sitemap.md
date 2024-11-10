@@ -1,6 +1,11 @@
 # Sitemap
 - [calvink19.uk](https://calvink19.uk) (Main Webiste)
     - [apt.-](https://apt.calvink19.uk) (Hosts Repositories)
+      - [/modmyi](https://apt.calvink19.uk/modmyi)
+      - [/bigboss](https://apt.calvink19.uk/bigboss)
+      - [/general](https://apt.calvink19.uk/general)
+      - [/siriport](https://apt.calvink19.uk/siriport)
+      - [/crackedarchive](https://apt.calvink19.uk/crackedarchive)
     - [cdn.-](https://cdn.calvink19.uk) (Hosts various file downloads)
 - [calvink19.github.io](http://calvink19.github.io) (Redirects to calvink19.uk)
 - [ck19.rf.gd](http://ck19.rf.gd) (Redirects to calvink19.uk)
