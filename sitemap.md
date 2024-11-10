@@ -1,21 +1,21 @@
 # Sitemap
-- [calvink19.github.io](http://calvink19.github.io) (Main Website)
-- [ck19r.github.io](http://ck19r.github.io) (Multiple Repos)
-    - [/ca](http://ck19r.github.io/ca) (Cracked Archive)
-    - [/ga](http://ck19r.github.io/ga) (General Archive)
-    - [/bb](http://ck19r.github.io/bb) (BigBoss Archive)
-    - [/emp](http://ck19r.github.io/emp) (EatMyPhone Archive)
-    - [/dl](http://ck19r.github.io/dl) (Misc. Downloads)
-- [ck19.rf.gd](http://ck19.rf.gd) (Redirects here)
-    - [apt.-](http://apt.ck19.rf.gd) (Hosts other repositories, coming soon)
-    - [contact.-](http://contact.ck19.rf.gd) (Contact Page)
-- [cmgmini.github.io](https://cmgmini.github.io) (CoolMathGames Mini)  
+- [calvink19.uk](https://calvink19.uk) (Main Webiste)
+    - [apt.-](https://apt.calvink19.uk) (Hosts Repositories)
+    - [cdn.-](https://cdn.calvink19.uk) (Hosts various file downloads)
+- [calvink19.github.io](http://calvink19.github.io) (Redirects to calvink19.uk)
+- [ck19.rf.gd](http://ck19.rf.gd) (Redirects to calvink19.uk)
+    - [contact.-](http://contact.ck19.rf.gd) (Redirects to calvink19.uk/contact)
 
 ***
 
 
 # Not in use
 - [calvink19.co](http://calvink19.co) (Redirects here)
-- [modmyi.github.io](https://modmyi.github.io)
-- [modmyi.rf.gd](http://modmyi.rf.gd) (New ModMyi Repo, coming soon)
+- [modmyi.github.io](https://modmyi.github.io) (Worst case scenario...)
+- [ck19r.github.io](http://ck19r.github.io) (Multiple Repos)
+    - [/ca](http://ck19r.github.io/ca) (Cracked Archive)
+    - [/ga](http://ck19r.github.io/ga) (General Archive)
+    - [/bb](http://ck19r.github.io/bb) (BigBoss Archive)
+    - [/emp](http://ck19r.github.io/emp) (EatMyPhone Archive)
+    - [/dl](http://ck19r.github.io/dl) (Misc. Downloads)
 - [ck19c.github.io](https://ck19c.github.io) (Contact Page)
