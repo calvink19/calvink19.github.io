@@ -1,6 +1,7 @@
 # Index
 **Hello, I'm Calvin.**  
-I like to tinker with old iOS devices in my spare time.  
+I'm from the US (*.uk was cheaper than .com or .net*), and like to tinker with old iOS devices in my spare time.  
+I enjoy creating useful things, whether it's tutorials on YouTube, scripts, or websites (like this one).  
 
 ***
 
