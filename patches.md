@@ -23,7 +23,9 @@ This is a list of running services/patches for iOS 6 (some support iOS 5, but al
 
 6. once you get to the Apple ID screen, make sure you sign in correctly since you have the Certificates.
 
-(From `fifiisntawesum` in bag.xml's Discord server)
+(From `fifiisntawesum` in bag.xml's Discord server.)
+
+[Patch for iOS 7](https://fifiisawesum.github.io/gamecenter7.html), [Original fix](https://fifiisawesum.github.io/gamecenter.html)
 
 ***
 
