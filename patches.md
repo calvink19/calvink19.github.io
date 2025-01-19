@@ -5,13 +5,13 @@ This is a list of running services/patches for iOS 6 (some support iOS 5, but al
 ***
 
 ### Weather, Maps
-- Install the WeatherX tweak from [cydia.bag-xml.com](cydia.bag-xml.com).
-- Install the MapsX tweak from [cydia.bag-xml.com](cydia.bag-xml.com) (*location only, use Google Maps for navigation*).
+- Install the WeatherX tweak from [cydia.bag-xml.com](https://cydia.bag-xml.com).
+- Install the MapsX tweak from [cydia.bag-xml.com](https://cydia.bag-xml.com) (*location only, use Google Maps for navigation*).
 
 ***
 
 ### GameCenter
-1. You will need to get the Certificates: "DigiCert Global Root CA G2" and "DigiCert Global Root CA G3" from [https://tlsroot.litten.ca/](tlsroot.litten.ca)
+1. You will need to get the Certificates: "DigiCert Global Root CA G2" and "DigiCert Global Root CA G3" from [https://tlsroot.litten.ca/](https://tlsroot.litten.ca)
 
 2. Next you need to install the app called iFile, navigate to the directory: "`/var/mobile/Library/Preferences`"
 
@@ -23,12 +23,12 @@ This is a list of running services/patches for iOS 6 (some support iOS 5, but al
 
 6. once you get to the Apple ID screen, make sure you sign in correctly since you have the Certificates.
 
-(From `poplol` in bag.xml's Discord server)
+(From `fifiisntawesum` in bag.xml's Discord server)
 
 ***
 
 ### Vine (Untitled Vine Revival)
-Install the Vine app from [purplestore.a1429.lol/storefront](purplestore.a1429.lol/storefront). This is NOT the same as bag.xml's planned VineX, as VineX is a read-only archive while UVR is a new social platform that functions similar to Vine, like RetroGram by Savefade. You will need to make an account at [uvr.a1429.lol](https://uvr.a1429.lol).
+Install the Vine app from [purplestore.a1429.lol/storefront](https://purplestore.a1429.lol/storefront). This is NOT the same as bag.xml's planned VineX, as VineX is a read-only archive while UVR is a new social platform that functions similar to Vine, like RetroGram by Savefade. You will need to make an account at [uvr.a1429.lol](https://uvr.a1429.lol).
 
 ***
 
@@ -40,14 +40,14 @@ Grab the IPA from [rgdownload.sfproj.xyz/iOS](https://rgdownload.sfproj.xyz/iOS/
 ### Twitter/Bluesky
 This recreates Twitter API V1 good enough for the twitter clients to work.
 
-API URL: https://twitterbridge.loganserver.net/ 
-Test/Beta API URL: https://testtwitterbridge.loganserver.net/ 
+API URL: https://twitterbridge.loganserver.net/  
+Test/Beta API URL: https://testtwitterbridge.loganserver.net/  
 (this does also work with android and other platforms than just iOS, most commonly requires patches, there's a patched android for test in there)
 
-Primary IPA: https://loganserver.net/twitters/ios/official/Twitter%204.1.3%20Unpatched.ipa. 
-(tested on ios 4-6 so far)
-Other twitter versions can be found here: https://loganserver.net/twitters/  
-Source code can be found here: https://github.com/Preloading/TwitterAPIBridge 
+Primary IPA: [https://loganserver.net/twitters/ios/official/Twitter%204.1.3%20Unpatched.ipa](https://loganserver.net/twitters/ios/official/Twitter%204.1.3%20Unpatched.ipa)  
+(tested on ios 4-6 so far)  
+Other twitter versions can be found here: [https://loganserver.net/twitters/](https://loganserver.net/twitters)   
+Source code can be found here: [https://github.com/Preloading/TwitterAPIBridge](https://github.com/Preloading/TwitterAPIBridge)  
 
 Instructions:
 
