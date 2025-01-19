@@ -11,17 +11,19 @@ This is a list of running services/patches for iOS 6 (some support iOS 5, but al
 ***
 
 ### GameCenter
-1. You will need to get the Certificates: "DigiCert Global Root CA G2" and "DigiCert Global Root CA G3" from https://tlsroot.litten.ca/
+1. You will need to get the Certificates: "DigiCert Global Root CA G2" and "DigiCert Global Root CA G3" from [https://tlsroot.litten.ca/](tlsroot.litten.ca)
 
 2. Next you need to install the app called iFile, navigate to the directory: "`/var/mobile/Library/Preferences`"
 
 3. and look for anything folder that has anything to do with "`purplebuddy`", "`gamecenter`", and "`gamed`".
 
-4. delete the files or move them after, next go to the directory: "/var/mobile/Library/Caches" and delete "`purplebuddy`"
+4. delete the files or move them after, next go to the directory: "`/var/mobile/Library/Caches`" and delete "`purplebuddy`"
 
 5. after you deleted/moved those files, you need to either reboot or respring, then go through the setup screen like normal.
 
 6. once you get to the Apple ID screen, make sure you sign in correctly since you have the Certificates.
+
+(From `poplol` in bag.xml's Discord server)
 
 ***
 
