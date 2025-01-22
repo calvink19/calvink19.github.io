@@ -5,7 +5,7 @@ A guide of all that I've figured out. I hope this can be an easy start for other
 
 Table of Contents
 
-- Setting up MacOS Virual Machine
-- Patching SDKs
+- [Setting up MacOS Virual Machine](https://calvink19.uk/developing/1)
+- [Setting up Xcode](https://calvink19.uk/developing/2)
 
 ##### More to come as I learn myself.
