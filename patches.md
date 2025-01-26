@@ -4,9 +4,10 @@ This is a list of running services/patches for iOS 6 (some support iOS 5, but al
 
 ***
 
-### Weather, Maps
+### Weather, Maps, Google Earth
 - Install the WeatherX tweak from [cydia.bag-xml.com](https://cydia.bag-xml.com).
 - Install the MapsX tweak from [cydia.bag-xml.com](https://cydia.bag-xml.com) (*location only, use Google Maps for navigation*).
+- Install the EarthX tweak from [cydia.bag-xml.com](https://cydia.bag-xml.com)
 
 ***
 
