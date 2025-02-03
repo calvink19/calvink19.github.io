@@ -25,8 +25,12 @@ a:hover {
     color: blue;
 } */
 
+.header {
+  position: sticky;
+  top: 0;
+  padding: 10px 16px;
+}
 
-/* CSS */
 .button-51 {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
   box-sizing: border-box;
