@@ -9,48 +9,16 @@
 </head>
 <body>
 <div class="cooldiv"><br>
-<button onclick="topFunction()" id="myBtn" title="Go to top">Back to Top</button>
-<h2 style="text-align:left;float:left;">{{ site.title | default: site.github.repository_name }}</h2>
+<!---<h2 style="text-align:left;float:left;">{{ site.title | default: site.github.repository_name }}</h2>--->
+<div class="header" id="myHeader">
+<h2 style="text-align:left;float:left;"></h2>
 <h4 style="text-align:right;float:right;"><a href="https://calvink19.uk" class="btn"><span class="icon"></span><button class="button-51" role="button"> <span class="button-51__Content"><span class="button-51__Text text">Index</span></span> </button></a> / <a href="https://calvink19.uk/projects" class="btn"><span class="icon"></span><button class="button-51" role="button"> <span class="button-51__Content"><span class="button-51__Text text">Projects</span></span> </button></a> / <a href="https://calvink19.uk/sitemap" class="btn"><span class="icon"></span><button class="button-51" role="button"> <span class="button-51__Content"><span class="button-51__Text text">Sitemap</span></span> </button></a> / <a href="https://calvink19.uk/contact" class="btn"><span class="icon"></span><button class="button-51" role="button"> <span class="button-51__Content"><span class="button-51__Text text">Contact</span></span> </button></a></h4> 
 <hr style="clear:both;"/>
+</div>
 <p>{{ content }}</p>
-<script>
-// Get the button
-let mybutton = document.getElementById("myBtn");
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
-function scrollFunction() {
-  if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
-function myFunction() {
-    var input, filter, ul, li, a, i, txtValue;
-    input = document.getElementById("myInput");
-    filter = input.value.toUpperCase();
-    ul = document.getElementById("myUL");
-    li = ul.getElementsByTagName("li");
-    for (i = 0; i < li.length; i++) {
-        a = li[i].getElementsByTagName("a")[0];
-        txtValue = a.textContent || a.innerText;
-        if (txtValue.toUpperCase().indexOf(filter) > -1) {
-            li[i].style.display = "";
-        } else {
-            li[i].style.display = "none";
-        }
-    }
-}
-</script>
 <hr><br>
 
-<d.iv id="google_translate_element"></div>
+<div id="google_translate_element"></div>
 <script> 
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({
