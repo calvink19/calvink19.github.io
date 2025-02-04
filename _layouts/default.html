@@ -1,24 +1,40 @@
+<!-- 
+hello there mr inspect element
+-->
 <!DOCTYPE html>
 <html>
 
 <head>
 
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
-    <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="Expires" content="0" />
     <link rel="stylesheet" href="https://getbootstrap.com/2.3.2/assets/css/bootstrap.css">
     <link rel="stylesheet" href="https://getbootstrap.com/2.3.2/assets/css/docs.css">
     <link rel="stylesheet" href="https://getbootstrap.com/2.3.2/assets/css/bootstrap-responsive.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://getbootstrap.com/2.3.2/assets/js/bootstrap.js"></script>
 
-    <style>
-        body {
-            padding-top: 60px;
-            overflow-y: auto;
-            scrollbar-gutter: stable;
-        }
-    </style>
+<style>
+  body {
+      padding-top: 60px;
+      position: relative;
+      z-index: 0;
+      background: none;
+  }
+
+  body::before {
+      content: "";
+      position: fixed; /* Fixed to the viewport */
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: url('https://wallpapercave.com/wp/wp2916606.png');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      filter: blur(20px) brightness(120%);
+      z-index: -1;
+  }
+</style>
 
 
 </head>
@@ -26,7 +42,7 @@
 <div class="navbar navbar-fixed-top navbar-inverse">
     <div class="navbar-inner">
         <div class="container">
-            <a class="brand" href="./about">CalvinK19</a>
+            <a class="brand" href="./">CalvinK19</a>
             <ul class="nav pull-left">
                 <a class="btn btn-success" href="./"><i class="icon-bookmark icon-white"></i> Index</a>
                 <a class="btn btn-warning" href="./projects"><i class="icon-briefcase icon-white"></i> Projects</a>
