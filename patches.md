@@ -114,3 +114,9 @@ Install the patched IPA from [here](https://mtmdev.org/webapp/applist.html) (top
 ### YouTube
 
 Install the YouTube app version 1.1.0 or 2.0.0 [here](https://tuberepair.bag-xml.com), and install the tweak TubeRepair from [cydia.bag-xml.com](https://cydia.bag-xml.com).
+
+***
+
+### Google Translate
+
+Download the [ReTranslate](https://github.com/Preloading/Retranslate/releases) tweak.
